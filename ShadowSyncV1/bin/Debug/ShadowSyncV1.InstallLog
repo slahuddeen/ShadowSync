@@ -1,0 +1,117 @@
+﻿Installing assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Installing service ShadowSync...
+Service ShadowSync has been successfully installed.
+Creating EventLog source ShadowSync in log Application...
+Committing assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Installing assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Installing service ShadowSync...
+Creating EventLog source ShadowSync in log Application...
+Rolling back assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Restoring event log to previous state for source ShadowSync.
+Installing assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
+Installing service ShadowSync...
+Service ShadowSync has been successfully installed.
+Creating EventLog source ShadowSync in log Application...
+Committing assembly 'C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.InstallLog
+   assemblypath = C:\Users\Deeny\source\repos\ShadowSyncV1\ShadowSyncV1\bin\Debug\ShadowSyncV1.exe
